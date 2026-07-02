@@ -303,41 +303,6 @@
     "analyzed_at": "2026-06-30T16:49:59.951506"
   },
   {
-    "title": "Honduras: Key Message Update - Fuel and fertilizer price increases compound delayed primera planting, May - September 2026",
-    "source": "ReliefWeb Agriculture",
-    "date": "2026-06-01",
-    "source_url": "https://reliefweb.int/report/honduras/honduras-key-message-update-fuel-and-fertilizer-price-increases-compound-delayed-primera-planting-may-september-2026",
-    "summary_ja": "ホンジュラスでは燃料・肥料価格の高騰と降雨不足により、小規模農家の生産コストが増大し、作付けの遅延や収量減少が懸念されている。これらの要因が農家の商業的生産活動を強く圧迫しており、食料不安を悪化させている。",
-    "summary_en": "In Honduras, rising fuel and fertilizer costs combined with below-average rainfall are increasing production costs and delaying planting for smallholders, with expected negative impacts on crop yields. These factors are severely hindering agricultural production and exacerbating food insecurity for small-scale farmers.",
-    "tags": [
-      "Honduras",
-      "smallholder",
-      "agriculture",
-      "fertilizer",
-      "climate",
-      "food security"
-    ],
-    "bottlenecks": [
-      {
-        "category": "input_market",
-        "description": "肥料や燃料の価格が高騰し、生産コストを押し上げている。",
-        "severity": "high",
-        "evidence_quote": "Above-average fuel and fertilizer prices continue to drive high production and transportation costs for a second consecutive month.",
-        "is_explicit": true
-      },
-      {
-        "category": "climate_risk",
-        "description": "降雨不足により、土壌水分が不足し、作付け開始が遅延している。",
-        "severity": "high",
-        "evidence_quote": "Recent rainfall estimates through mid-May indicate widespread below-average precipitation across Honduras, negatively impacting primera land preparation and planting in localized areas.",
-        "is_explicit": true
-      }
-    ],
-    "success_factors": [],
-    "ai_confidence": 91,
-    "analyzed_at": "2026-06-30T16:50:04.567049"
-  },
-  {
     "title": "AI offers promise for agriculture, but smallholder farmers risk being left behind - The Conversation",
     "source": "Google News Smallholder",
     "date": "2026-06-03",
