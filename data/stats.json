@@ -1,17 +1,17 @@
 {
-  "total_projects": 19,
+  "total_projects": 20,
   "total_countries": 9,
   "total_beneficiaries": 125088000,
   "total_beneficiaries_display": "1.3億",
   "avg_income_change_pct": 41,
   "total_papers": 1,
-  "total_news": 8,
-  "last_updated": "2026-07-03",
+  "total_news": 7,
+  "last_updated": "2026-07-04",
   "regions": {
     "Sub-Saharan Africa": 8,
     "Multiple": 6,
     "South Asia": 4,
-    "Other": 1
+    "Other": 2
   },
   "implementers": {
     "JICA": 9,
@@ -23,7 +23,8 @@
     "Cornell University / Various NGOs": 1,
     "FAO": 1,
     "United Nations World Food Programme (WFP), Ministry of Agriculture, Forests and Environment": 1,
-    "IFAD, World Bank": 1
+    "IFAD, World Bank": 1,
+    "ICTworks": 1
   },
   "bottleneck_frequency": {
     "input_market": 6,
@@ -49,13 +50,19 @@
   "approaches": {
     "market-oriented": 9,
     "value-chain": 5,
+    "digital": 4,
     "climate-smart": 4,
-    "digital": 3,
     "financial-inclusion": 2,
     "input-market": 2,
     "cooperative": 1
   },
   "timeline": [
+    {
+      "date": "2026-07-04",
+      "title": "AI4Good AgriTech Farmer Solutions データ更新",
+      "description": "ICTworksが、AI技術を活用した小規模農家向けのソリューション開発に対し、総額36万ドルの助成金を提供する公募を開始しました。この取り組みは、農業分野にお...",
+      "type": "update"
+    },
     {
       "date": "2026-07-01",
       "title": "AgriConnect データ更新",
@@ -78,12 +85,6 @@
       "date": "2025-04-01",
       "title": "Bangla-SHEP データ更新",
       "description": "バングラデシュにおけるSHEPの適用。デルタ地帯特有の塩害・洪水リスクに対応しながら、多様なステークホルダーとの連携モデルを構築。...",
-      "type": "update"
-    },
-    {
-      "date": "2025-03-01",
-      "title": "SHEP PLUS データ更新",
-      "description": "SHEPアプローチのケニア全国農業普及システムへの制度化・スケールアップ。全47カウンティへの展開を目指し、政府の既存システムにSHEP手法を統合。...",
       "type": "update"
     }
   ]

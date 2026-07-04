@@ -1396,5 +1396,45 @@
     "ai_confidence": 89,
     "last_updated": "2026-07-01",
     "coordinates": null
+  },
+  {
+    "id": "ai4good-agritech-farmer-soluti",
+    "name": "AI4Good AgriTech Farmer Solutions",
+    "name_ja": "AI4Good AgriTech Farmer Solutions",
+    "country": [],
+    "country_ja": [],
+    "region": "Other",
+    "flag": "🌍",
+    "implementer": "ICTworks",
+    "start_year": null,
+    "end_year": null,
+    "status": "active",
+    "approach": [
+      "digital"
+    ],
+    "approach_ja": [
+      "digital"
+    ],
+    "target_crops": [],
+    "climate_relevance": "none",
+    "description_en": "ICTworks has launched a call for applications for $360,000 in funding to support AI-driven solutions for smallholder farmers. The initiative aims to promote technological innovation within the agricultural sector.",
+    "description_ja": "ICTworksが、AI技術を活用した小規模農家向けのソリューション開発に対し、総額36万ドルの助成金を提供する公募を開始しました。この取り組みは、農業分野における技術革新を支援することを目的としています。",
+    "outcomes": {
+      "income_change_pct": null,
+      "participants": null,
+      "key_result": null
+    },
+    "bottlenecks": [],
+    "success_factors": [],
+    "tags": [
+      "AgriTech",
+      "Artificial Intelligence",
+      "Smallholder Farmers",
+      "Funding"
+    ],
+    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sWWFXeEstVUF2M0Z0SUIwRHlEWG1uSk5sUlBKdk5VTGVrSkQxbEw0MzZvZ013N3YzY3NHdjhfSHhkb2Q3ajA4RXZtN3paTVd0RWs3RmtrU3FVOW1NOUJDbXNJXzR1WFlid0JB?oc=5",
+    "ai_confidence": 86,
+    "last_updated": "2026-07-04",
+    "coordinates": null
   }
 ]
