@@ -1,17 +1,17 @@
 {
-  "total_projects": 20,
+  "total_projects": 21,
   "total_countries": 9,
   "total_beneficiaries": 125088000,
   "total_beneficiaries_display": "1.3億",
   "avg_income_change_pct": 41,
   "total_papers": 1,
   "total_news": 7,
-  "last_updated": "2026-07-04",
+  "last_updated": "2026-07-05",
   "regions": {
     "Sub-Saharan Africa": 8,
     "Multiple": 6,
     "South Asia": 4,
-    "Other": 2
+    "Other": 3
   },
   "implementers": {
     "JICA": 9,
@@ -24,22 +24,24 @@
     "FAO": 1,
     "United Nations World Food Programme (WFP), Ministry of Agriculture, Forests and Environment": 1,
     "IFAD, World Bank": 1,
-    "ICTworks": 1
+    "ICTworks": 1,
+    "null": 1
   },
   "bottleneck_frequency": {
     "input_market": 6,
     "scalability": 6,
+    "market_access": 6,
     "knowledge_gap": 6,
     "institutional": 5,
-    "market_access": 5,
     "climate_risk": 4,
     "financial_access": 3,
     "post_harvest": 2,
-    "gender": 1
+    "gender": 1,
+    "value-chain": 1
   },
   "success_factor_frequency": {
     "farmer_ownership": 7,
-    "market_linkage": 6,
+    "market_linkage": 7,
     "institutional_integration": 5,
     "phased_scaleup": 5,
     "public_private": 5,
@@ -48,8 +50,8 @@
     "gender_mainstream": 2
   },
   "approaches": {
-    "market-oriented": 9,
-    "value-chain": 5,
+    "market-oriented": 10,
+    "value-chain": 6,
     "digital": 4,
     "climate-smart": 4,
     "financial-inclusion": 2,
@@ -57,6 +59,12 @@
     "cooperative": 1
   },
   "timeline": [
+    {
+      "date": "2026-07-05",
+      "title": "Enhancing Market Access for Smallholder Farmers through Agribusiness Development データ更新",
+      "description": "本記事は、小規模農家が市場アクセスを向上させ、商業的農業へと移行するための助成金提案書のサンプルを提示しています。アグリビジネス開発を通じて、バリューチェーンの...",
+      "type": "update"
+    },
     {
       "date": "2026-07-04",
       "title": "AI4Good AgriTech Farmer Solutions データ更新",
@@ -79,12 +87,6 @@
       "date": "2026-06-30",
       "title": "Adaptation Fund Climate Innovation Accelerator (AFCIA) データ更新",
       "description": "ネパールにて国連世界食糧計画（WFP）と政府が、適応基金気候イノベーション・アクセラレーター（AFCIA）の実施フェーズを開始しました。本プログラムは、気候変動...",
-      "type": "update"
-    },
-    {
-      "date": "2025-04-01",
-      "title": "Bangla-SHEP データ更新",
-      "description": "バングラデシュにおけるSHEPの適用。デルタ地帯特有の塩害・洪水リスクに対応しながら、多様なステークホルダーとの連携モデルを構築。...",
       "type": "update"
     }
   ]

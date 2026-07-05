@@ -1436,5 +1436,70 @@
     "ai_confidence": 86,
     "last_updated": "2026-07-04",
     "coordinates": null
+  },
+  {
+    "id": "enhancing-market-access-for-sm",
+    "name": "Enhancing Market Access for Smallholder Farmers through Agribusiness Development",
+    "name_ja": "Enhancing Market Access for Smallholder Farmers through Agribusiness Development",
+    "country": [],
+    "country_ja": [],
+    "region": "Other",
+    "flag": "🌍",
+    "implementer": null,
+    "start_year": null,
+    "end_year": null,
+    "status": "active",
+    "approach": [
+      "market-oriented",
+      "value-chain"
+    ],
+    "approach_ja": [
+      "market-oriented",
+      "value-chain"
+    ],
+    "target_crops": [],
+    "climate_relevance": "none",
+    "description_en": "This article provides a sample grant proposal for enhancing market access for smallholder farmers through agribusiness development. It outlines a framework for addressing value chain challenges to help smallholders transition toward commercial agriculture and sustainable livelihoods.",
+    "description_ja": "本記事は、小規模農家が市場アクセスを向上させ、商業的農業へと移行するための助成金提案書のサンプルを提示しています。アグリビジネス開発を通じて、バリューチェーンの課題に対処し、持続可能な生計を実現するための枠組みを解説しています。",
+    "outcomes": {
+      "income_change_pct": null,
+      "participants": null,
+      "key_result": null
+    },
+    "bottlenecks": [
+      {
+        "category": "market_access",
+        "description": "小規模農家は市場へのアクセスが制限されており、収益を最大化できていない。",
+        "severity": "high",
+        "evidence_quote": "Smallholder farmers often struggle to access profitable markets, leading to low income and limited growth potential.",
+        "is_explicit": true
+      },
+      {
+        "category": "value-chain",
+        "description": "農場から市場までのバリューチェーンにおいて、効率性と付加価値が不足している。",
+        "severity": "medium",
+        "evidence_quote": "The lack of efficient value chain linkages often results in significant post-harvest losses and reduced competitiveness.",
+        "is_explicit": true
+      }
+    ],
+    "success_factors": [
+      {
+        "category": "market_linkage",
+        "description": "農家と市場を結びつけるアグリビジネスの育成が不可欠である。",
+        "evidence_quote": "Establishing strong market linkages through agribusiness development is crucial for transitioning smallholders from subsistence to commercial farming.",
+        "is_explicit": true
+      }
+    ],
+    "tags": [
+      "smallholder",
+      "agribusiness",
+      "market access",
+      "value chain",
+      "grant proposal"
+    ],
+    "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWjFhajl3QkZMLU5wRkNWR3J5WTRsVVVUTzNIRGhGdlVfeXF0RjJiYmpaZTlGY196ZjdqSGNBalNLVzBIajhocW1VV3dYa1hKZ3VMSFg3RldXaGRySThqREs5YjVOaU9Menk0NFJqTDdDQzREZ2p0NVBuMFoycFdEeXlMZUtlSlVtYzFxdmZoZkJwSzRHdXpSNFpxdGk1a2VDZk11cXVoQmtpZ0NqamZERmNyWV9lbzRDMF9xMEg0Ui10S2lPclNzOVkzQ1VsNHFYaV8yWDJNMzQzMThXeVVRSWhCaUlKUQ?oc=5",
+    "ai_confidence": 94,
+    "last_updated": "2026-07-05",
+    "coordinates": null
   }
 ]
