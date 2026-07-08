@@ -1501,5 +1501,161 @@
     "ai_confidence": 94,
     "last_updated": "2026-07-05",
     "coordinates": null
+  },
+  {
+    "id": "anticipatory-action-aa-mechani",
+    "name": "Anticipatory Action (AA) mechanism for drought",
+    "name_ja": "Anticipatory Action (AA) mechanism for drought",
+    "country": [
+      "Belize"
+    ],
+    "country_ja": [
+      "Belize"
+    ],
+    "region": "Latin America",
+    "flag": "🌍",
+    "implementer": "Ministry of Agriculture, Food Security and New Growth Industries, National Meteorological Services, World Food Programme (WFP)",
+    "start_year": null,
+    "end_year": null,
+    "status": "active",
+    "approach": [
+      "climate-smart",
+      "financial-inclusion"
+    ],
+    "approach_ja": [
+      "climate-smart",
+      "financial-inclusion"
+    ],
+    "target_crops": [],
+    "climate_relevance": "high",
+    "description_en": "The government of Belize and WFP have activated an Anticipatory Action mechanism to provide cash assistance to smallholder farmers ahead of forecasted droughts. This initiative enables farmers to invest in water-storage, drought-tolerant seeds, and irrigation to protect crops and maintain their livelihoods against climate shocks.",
+    "description_ja": "ベリーズ政府とWFPは、干ばつリスクに備えて小規模農家に対し現金給付を行う「Anticipatory Action」メカニズムを起動しました。この取り組みは、農家が灌漑設備や耐乾性種子へ投資することを可能にし、干ばつの影響を軽減し生計を守ることを目的としています。",
+    "outcomes": {
+      "income_change_pct": null,
+      "participants": null,
+      "key_result": "干ばつの予測に基づき、脆弱な農家へ早期に現金支援を行う仕組みを確立した。"
+    },
+    "bottlenecks": [
+      {
+        "category": "climate_risk",
+        "description": "干ばつなどの気候変動によるショックが、小規模農家の生計や農業生産を脅かしている。",
+        "severity": "high",
+        "evidence_quote": "These shocks place significant strain on Government resources and disrupt agricultural production, which affect smallholder farmers who rely on predictable rainfall for their incomes and food security.",
+        "is_explicit": true
+      }
+    ],
+    "success_factors": [
+      {
+        "category": "institutional_integration",
+        "description": "政府機関と国際機関が連携し、科学的データに基づく干ばつ対策システムを構築した。",
+        "evidence_quote": "This initiative is the result of nearly two years of collaboration between the Ministry of Agriculture, the National Meteorological Services and WFP, working together to design a system tailored to Belize’s agricultural and climate context.",
+        "is_explicit": true
+      },
+      {
+        "category": "ict_use",
+        "description": "気象予測データを活用し、干ばつ被害が発生する前に先制的な意思決定を行う体制を整えた。",
+        "evidence_quote": "This collaboration has focused on improving the interpretation and application for seasonal forecasts, supporting early warning communication and linking climate information to decision-making.",
+        "is_explicit": true
+      }
+    ],
+    "tags": [
+      "Belize",
+      "Drought",
+      "Anticipatory Action",
+      "WFP",
+      "Smallholder farmers",
+      "Climate Resilience"
+    ],
+    "source_url": "https://reliefweb.int/report/belize/belize-triggers-anticipatory-action-support-farmers-ahead-drought-risk",
+    "ai_confidence": 93,
+    "last_updated": "2026-07-08",
+    "coordinates": null
+  },
+  {
+    "id": "third-phase-scale-up-of-their-",
+    "name": "third phase scale up of their flagship school meals partnership",
+    "name_ja": "third phase scale up of their flagship school meals partnership",
+    "country": [
+      "Ethiopia",
+      "Kenya",
+      "Uganda"
+    ],
+    "country_ja": [
+      "Ethiopia",
+      "Kenya",
+      "Uganda"
+    ],
+    "region": "Sub-Saharan Africa",
+    "flag": "🌍",
+    "implementer": "World Food Programme (WFP), Novo Nordisk Foundation, Grundfos Foundation",
+    "start_year": null,
+    "end_year": null,
+    "status": "active",
+    "approach": [
+      "market-oriented",
+      "climate-smart",
+      "nutrition"
+    ],
+    "approach_ja": [
+      "market-oriented",
+      "climate-smart",
+      "nutrition"
+    ],
+    "target_crops": [],
+    "climate_relevance": "high",
+    "description_en": "The WFP, Novo Nordisk Foundation, and Grundfos Foundation have launched a partnership to scale up Home-Grown School Feeding models across Ethiopia, Kenya, and Uganda. This initiative aims to provide stable, predictable markets for over 57,500 smallholder farmers while building climate-resilient local food systems.",
+    "description_ja": "WFP、Novo Nordisk財団、Grundfos財団は、エチオピア、ケニア、ウガンダにおいて「Home-Grown School Feeding（地元産品による学校給食）」モデルを拡大するパートナーシップを発表しました。この取り組みは、57,500人以上の小規模農家に安定的かつ予測可能な市場を提供し、気候変動に強い食料システムを構築することを目的としています。",
+    "outcomes": {
+      "income_change_pct": null,
+      "participants": "57,500 smallholder farmers",
+      "key_result": "Creating stable and predictable markets for more than 57,500 smallholder farmers over the next 5 years."
+    },
+    "bottlenecks": [
+      {
+        "category": "institutional",
+        "description": "多くの国々において、学校給食のための持続可能な資金確保や、国家システムへの統合が依然として困難な状況にあります。",
+        "severity": "medium",
+        "evidence_quote": "Yet many countries still struggle to secure sustainable financing or integrate school meals into national systems.",
+        "is_explicit": true
+      },
+      {
+        "category": "climate_risk",
+        "description": "学校給食プログラムの実施において、気候ショックへの耐性強化と水供給の確保が不可欠な課題となっています。",
+        "severity": "high",
+        "evidence_quote": "Safe and reliable water supply is essential for school feeding programmes: it enables local food production, preparation of safe and nutritious meals in schools, and strengthens communities’ ability to withstand climate shocks.",
+        "is_explicit": true
+      }
+    ],
+    "success_factors": [
+      {
+        "category": "market_linkage",
+        "description": "学校給食の需要と地元の小規模農家を直接結びつけることで、農家の生計を向上させ、地域市場を強化します。",
+        "evidence_quote": "We know buying food locally strengthens livelihoods for farmers, as well as the markets and communities around them.",
+        "is_explicit": true
+      },
+      {
+        "category": "public_private",
+        "description": "民間財団（Novo Nordisk、Grundfos）とWFP、および各国政府が連携し、栄養に配慮した地元調達モデルを構築します。",
+        "evidence_quote": "This record contribution shows what is possible when partners come together.",
+        "is_explicit": true
+      },
+      {
+        "category": "phased_scaleup",
+        "description": "段階的なプロジェクト拡大アプローチをとっており、本フェーズでは新たにエチオピアが対象に含まれました。",
+        "evidence_quote": "This is the third phase of a partnership that has been building since WFP and NNF first worked together in Rwanda and Uganda, before expanding to Kenya. Phase III takes that to Ethiopia for the first time.",
+        "is_explicit": true
+      }
+    ],
+    "tags": [
+      "School Meals",
+      "Smallholder Farmers",
+      "Home-Grown School Feeding",
+      "Sustainable Food Systems",
+      "Climate-Smart Agriculture"
+    ],
+    "source_url": "https://reliefweb.int/report/ethiopia/novo-nordisk-foundation-grundfos-foundation-and-wfp-announce-record-private-sector-commitment-transform-school-meals-across-eastern-africa",
+    "ai_confidence": 93,
+    "last_updated": "2026-07-08",
+    "coordinates": null
   }
 ]

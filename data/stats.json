@@ -1,17 +1,18 @@
 {
-  "total_projects": 21,
-  "total_countries": 9,
+  "total_projects": 23,
+  "total_countries": 10,
   "total_beneficiaries": 125088000,
   "total_beneficiaries_display": "1.3億",
   "avg_income_change_pct": 41,
   "total_papers": 1,
   "total_news": 7,
-  "last_updated": "2026-07-07",
+  "last_updated": "2026-07-08",
   "regions": {
-    "Sub-Saharan Africa": 8,
+    "Sub-Saharan Africa": 9,
     "Multiple": 6,
     "South Asia": 4,
-    "Other": 3
+    "Other": 3,
+    "Latin America": 1
   },
   "implementers": {
     "JICA": 9,
@@ -25,40 +26,55 @@
     "United Nations World Food Programme (WFP), Ministry of Agriculture, Forests and Environment": 1,
     "IFAD, World Bank": 1,
     "ICTworks": 1,
-    "null": 1
+    "null": 1,
+    "Ministry of Agriculture, Food Security and New Growth Industries, National Meteorological Services, World Food Programme (WFP)": 1,
+    "World Food Programme (WFP), Novo Nordisk Foundation, Grundfos Foundation": 1
   },
   "bottleneck_frequency": {
     "input_market": 6,
     "scalability": 6,
+    "institutional": 6,
     "market_access": 6,
+    "climate_risk": 6,
     "knowledge_gap": 6,
-    "institutional": 5,
-    "climate_risk": 4,
     "financial_access": 3,
     "post_harvest": 2,
     "gender": 1,
     "value-chain": 1
   },
   "success_factor_frequency": {
+    "market_linkage": 8,
     "farmer_ownership": 7,
-    "market_linkage": 7,
-    "institutional_integration": 5,
-    "phased_scaleup": 5,
-    "public_private": 5,
-    "ict_use": 5,
+    "institutional_integration": 6,
+    "phased_scaleup": 6,
+    "public_private": 6,
+    "ict_use": 6,
     "behavioral_change": 4,
     "gender_mainstream": 2
   },
   "approaches": {
-    "market-oriented": 10,
+    "market-oriented": 11,
     "value-chain": 6,
+    "climate-smart": 6,
     "digital": 4,
-    "climate-smart": 4,
-    "financial-inclusion": 2,
+    "financial-inclusion": 3,
     "input-market": 2,
-    "cooperative": 1
+    "cooperative": 1,
+    "nutrition": 1
   },
   "timeline": [
+    {
+      "date": "2026-07-08",
+      "title": "Anticipatory Action (AA) mechanism for drought データ更新",
+      "description": "ベリーズ政府とWFPは、干ばつリスクに備えて小規模農家に対し現金給付を行う「Anticipatory Action」メカニズムを起動しました。この取り組みは、農...",
+      "type": "update"
+    },
+    {
+      "date": "2026-07-08",
+      "title": "third phase scale up of their flagship school meals partnership データ更新",
+      "description": "WFP、Novo Nordisk財団、Grundfos財団は、エチオピア、ケニア、ウガンダにおいて「Home-Grown School Feeding（地元産品...",
+      "type": "update"
+    },
     {
       "date": "2026-07-05",
       "title": "Enhancing Market Access for Smallholder Farmers through Agribusiness Development データ更新",
@@ -75,18 +91,6 @@
       "date": "2026-07-01",
       "title": "AgriConnect データ更新",
       "description": "IFADは、世界銀行のAgriConnectイニシアチブの一環として、少なくとも7,000万人の小規模食料生産者の生活を変革することを誓約しました。この取り組み...",
-      "type": "update"
-    },
-    {
-      "date": "2026-06-30",
-      "title": "Emergency Support for Food Security Project データ更新",
-      "description": "世界銀行は、バングラデシュの食料安全保障と生活を保護するため、11億ドルの緊急支援を承認しました。この支援は、肥料や燃料市場の価格変動と供給不足の影響を緩和し、...",
-      "type": "update"
-    },
-    {
-      "date": "2026-06-30",
-      "title": "Adaptation Fund Climate Innovation Accelerator (AFCIA) データ更新",
-      "description": "ネパールにて国連世界食糧計画（WFP）と政府が、適応基金気候イノベーション・アクセラレーター（AFCIA）の実施フェーズを開始しました。本プログラムは、気候変動...",
       "type": "update"
     }
   ]
