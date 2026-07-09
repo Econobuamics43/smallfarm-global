@@ -1657,5 +1657,55 @@
     "ai_confidence": 93,
     "last_updated": "2026-07-08",
     "coordinates": null
+  },
+  {
+    "id": "29th-call-for-proposals",
+    "name": "29th Call for Proposals",
+    "name_ja": "29th Call for Proposals",
+    "country": [],
+    "country_ja": [],
+    "region": "Other",
+    "flag": "🌍",
+    "implementer": "Common Fund for Commodities (CFC)",
+    "start_year": null,
+    "end_year": null,
+    "status": "active",
+    "approach": [
+      "market-oriented",
+      "value-chain"
+    ],
+    "approach_ja": [
+      "market-oriented",
+      "value-chain"
+    ],
+    "target_crops": [],
+    "climate_relevance": "medium",
+    "description_en": "The Common Fund for Commodities (CFC) has launched its 29th Call for Proposals to support smallholders, sustainable agriculture, and inclusive value chains. The initiative focuses on poverty reduction and fostering commercial activities within the commodity sector in developing countries.",
+    "description_ja": "Common Fund for Commodities（CFC）は、小規模農家、持続可能な農業、包摂的なバリューチェーンを支援するための第29回提案募集を開始しました。この取り組みは、発展途上国における商品部門の発展を通じた貧困削減と商業的活動の促進を目指しています。",
+    "outcomes": {
+      "income_change_pct": null,
+      "participants": null,
+      "key_result": null
+    },
+    "bottlenecks": [],
+    "success_factors": [
+      {
+        "category": "market_linkage",
+        "description": "CFCは、小規模農家がバリューチェーンへ包摂され、持続可能な市場アクセスを確立することを支援の成功要因（戦略）として位置づけています。",
+        "evidence_quote": "support smallholders, sustainable agriculture, and inclusive value chains",
+        "is_explicit": true
+      }
+    ],
+    "tags": [
+      "CFC",
+      "Smallholders",
+      "Sustainable Agriculture",
+      "Value Chains",
+      "Commodities"
+    ],
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XMy1fWW1rdFFlZ0FiY3BzMkNQcEhUdW54M2dobUY3cUJKUWY1c1d4LTZQalAzWTB5NTlaSW9PSFA3NXRxd0ZqM2t0R1FGMlRteXh3TXZVeHlTNGVYNG1SZjRJdWJNZUdzVzV5TA?oc=5",
+    "ai_confidence": 89,
+    "last_updated": "2026-07-09",
+    "coordinates": null
   }
 ]

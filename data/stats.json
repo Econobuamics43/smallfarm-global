@@ -1,17 +1,17 @@
 {
-  "total_projects": 23,
+  "total_projects": 24,
   "total_countries": 10,
   "total_beneficiaries": 125088000,
   "total_beneficiaries_display": "1.3億",
   "avg_income_change_pct": 41,
   "total_papers": 1,
-  "total_news": 7,
-  "last_updated": "2026-07-08",
+  "total_news": 6,
+  "last_updated": "2026-07-09",
   "regions": {
     "Sub-Saharan Africa": 9,
     "Multiple": 6,
     "South Asia": 4,
-    "Other": 3,
+    "Other": 4,
     "Latin America": 1
   },
   "implementers": {
@@ -28,7 +28,8 @@
     "ICTworks": 1,
     "null": 1,
     "Ministry of Agriculture, Food Security and New Growth Industries, National Meteorological Services, World Food Programme (WFP)": 1,
-    "World Food Programme (WFP), Novo Nordisk Foundation, Grundfos Foundation": 1
+    "World Food Programme (WFP), Novo Nordisk Foundation, Grundfos Foundation": 1,
+    "Common Fund for Commodities (CFC)": 1
   },
   "bottleneck_frequency": {
     "input_market": 6,
@@ -43,7 +44,7 @@
     "value-chain": 1
   },
   "success_factor_frequency": {
-    "market_linkage": 8,
+    "market_linkage": 9,
     "farmer_ownership": 7,
     "institutional_integration": 6,
     "phased_scaleup": 6,
@@ -53,8 +54,8 @@
     "gender_mainstream": 2
   },
   "approaches": {
-    "market-oriented": 11,
-    "value-chain": 6,
+    "market-oriented": 12,
+    "value-chain": 7,
     "climate-smart": 6,
     "digital": 4,
     "financial-inclusion": 3,
@@ -63,6 +64,12 @@
     "nutrition": 1
   },
   "timeline": [
+    {
+      "date": "2026-07-09",
+      "title": "29th Call for Proposals データ更新",
+      "description": "Common Fund for Commodities（CFC）は、小規模農家、持続可能な農業、包摂的なバリューチェーンを支援するための第29回提案募集を開始し...",
+      "type": "update"
+    },
     {
       "date": "2026-07-08",
       "title": "Anticipatory Action (AA) mechanism for drought データ更新",
@@ -85,12 +92,6 @@
       "date": "2026-07-04",
       "title": "AI4Good AgriTech Farmer Solutions データ更新",
       "description": "ICTworksが、AI技術を活用した小規模農家向けのソリューション開発に対し、総額36万ドルの助成金を提供する公募を開始しました。この取り組みは、農業分野にお...",
-      "type": "update"
-    },
-    {
-      "date": "2026-07-01",
-      "title": "AgriConnect データ更新",
-      "description": "IFADは、世界銀行のAgriConnectイニシアチブの一環として、少なくとも7,000万人の小規模食料生産者の生活を変革することを誓約しました。この取り組み...",
       "type": "update"
     }
   ]
