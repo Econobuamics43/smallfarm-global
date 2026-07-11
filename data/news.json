@@ -260,5 +260,79 @@
     "success_factors": [],
     "ai_confidence": 86,
     "analyzed_at": "2026-06-30T16:49:52.185978"
+  },
+  {
+    "title": "Ministry of Disaster Management and Relief of the Government of Bangladesh Donates Rice to WFP for Food Assistance to Rohingya Population",
+    "source": "ReliefWeb Agriculture",
+    "date": "2026-07-10",
+    "source_url": "https://reliefweb.int/report/bangladesh/ministry-disaster-management-and-relief-government-bangladesh-donates-rice-wfp-food-assistance-rohingya-population",
+    "summary_ja": "WFPはバングラデシュのホストコミュニティにおいて、33,000人以上の小規模農家に対し、気候変動に強い農業支援と市場アクセス支援を行っている。この取り組みは、農家を地域市場およびWFPの食料支援プログラムと結びつけることで支援を継続している。",
+    "summary_en": "WFP supports over 33,000 smallholder farmers in host communities through climate-resilient agriculture and market linkage initiatives. These efforts connect farmers to local markets and WFP's food assistance operations for the Rohingya response.",
+    "tags": [
+      "smallholder farmers",
+      "climate-resilient agriculture",
+      "market linkage",
+      "WFP",
+      "Bangladesh"
+    ],
+    "bottlenecks": [
+      {
+        "category": "climate_risk",
+        "description": "ホストコミュニティおよび難民キャンプにおいて、大雨や洪水などの気候リスクが深刻な影響を与えている。",
+        "severity": "high",
+        "evidence_quote": "Recent heavy monsoon rains and flooding have once again deepened hardship across parts of the camps, damaging shelters, disrupting movement and essential services, and tragically claiming several lives.",
+        "is_explicit": true
+      }
+    ],
+    "success_factors": [
+      {
+        "category": "market_linkage",
+        "description": "小規模農家を地域市場やWFPの食料支援オペレーションと結びつけることで、農業支援を強化している。",
+        "evidence_quote": "In the host communities, WFP and partners support more than 33,000 smallholder farmers through climate-resilient agriculture and market linkage support, connecting them to local markets and WFP's food assistance operations for the Rohingya response.",
+        "is_explicit": true
+      }
+    ],
+    "ai_confidence": 85,
+    "analyzed_at": "2026-07-11T21:55:35.867757"
+  },
+  {
+    "title": "Italy: Asia and the Pacific’s agricultural innovations take centre stage at the FAO Global Conference on Smart Farming",
+    "source": "ReliefWeb Agriculture",
+    "date": "2026-07-09",
+    "source_url": "https://reliefweb.int/report/italy/asia-and-pacifics-agricultural-innovations-take-centre-stage-fao-global-conference-smart-farming",
+    "summary_ja": "ローマで開催されたFAOのスマート農業に関するグローバル会議において、アジア・太平洋地域の小規模農家を対象としたスマート農業技術の導入と、政策・投資を通じたスケーラビリティの確保が議論された。技術革新による生産性向上とインクルーシブな生態系構築の重要性が強調され、知識・技術・金融へのアクセス不足が普及の課題として指摘された。",
+    "summary_en": "At the FAO Global Conference on Smart Farming in Rome, stakeholders discussed scaling up smart farming systems to support small-scale farmers in Asia and the Pacific. The conference highlighted the necessity of integrating government, research, and markets to foster inclusive ecosystems while noting that gaps in knowledge, technology, and financial resources remain significant barriers.",
+    "tags": [
+      "Smart Farming",
+      "Small-scale farmers",
+      "FAO",
+      "Innovation",
+      "Asia and the Pacific"
+    ],
+    "bottlenecks": [
+      {
+        "category": "knowledge_gap",
+        "description": "知識、技術、金融リソースへのアクセス不足が、農家が規模を拡大し成果を出すことを制限している。",
+        "severity": "high",
+        "evidence_quote": "gaps in access to knowledge, technology and financial resources continued to limit many from achieving scale and impact.",
+        "is_explicit": true
+      }
+    ],
+    "success_factors": [
+      {
+        "category": "institutional_integration",
+        "description": "政府、研究機関、市場、金融サービスを統合する戦略的な政策が、スマート農業システムの構築に不可欠である。",
+        "evidence_quote": "Dohong emphasized that strategic policies are instrumental in creating integrated systems that bring together government, research, markets and financial services.",
+        "is_explicit": true
+      },
+      {
+        "category": "public_private",
+        "description": "研究成果を農家の現場へ橋渡しするため、FAOとシドニー大学が協力するような産学連携が重要である。",
+        "evidence_quote": "During the conference, FAO and the University of Sydney joined forces to help move innovation from research to farmers’ fields, marked by the signing of a five-year memorandum of understanding (MoU).",
+        "is_explicit": true
+      }
+    ],
+    "ai_confidence": 94,
+    "analyzed_at": "2026-07-11T21:55:40.607596"
   }
 ]
