@@ -222,46 +222,6 @@
     "analyzed_at": "2026-06-30T16:49:47.326948"
   },
   {
-    "title": "Benin Context Report, June 11, 2026",
-    "source": "ReliefWeb Agriculture",
-    "date": "2026-06-11",
-    "source_url": "https://reliefweb.int/report/benin/benin-context-report-june-11-2026",
-    "summary_ja": "ベナンは雨水依存の小規模農家が主体であり、南部では市場統合が進んでいる一方、北部は紛争や異常気象の影響を受けています。食料安全保障上の懸念が高まる中、農家は価格高騰や市場アクセスの制限といった構造的な課題に直面しています。",
-    "summary_en": "Benin's agriculture is dominated by rainfed smallholders, with relatively strong market integration in the south but significant challenges in the north. The sector faces structural vulnerabilities, including conflict, erratic rainfall, and rising input costs, which hinder stability and food security.",
-    "tags": [
-      "Benin",
-      "Smallholder Agriculture",
-      "Food Insecurity",
-      "Market Access"
-    ],
-    "bottlenecks": [
-      {
-        "category": "market_access",
-        "description": "北部では治安悪化により移動が制限され、市場へのアクセスが困難になっています。",
-        "severity": "high",
-        "evidence_quote": "Growing insecurity is disrupting livelihoods, restricting mobility, limiting access to agricultural land and markets, and driving forced, often repeated displacements.",
-        "is_explicit": true
-      },
-      {
-        "category": "input_market",
-        "description": "農業資材の価格上昇が農家の購買力を低下させています。",
-        "severity": "high",
-        "evidence_quote": "Rising food, fuel, and agricultural input prices, especially in conflict-affected areas, are also eroding purchasing power for poor households.",
-        "is_explicit": true
-      },
-      {
-        "category": "climate_risk",
-        "description": "洪水や降雨パターンの不安定さが農業生産の障壁となっています。",
-        "severity": "high",
-        "evidence_quote": "Additional hazards include recurrent flooding in southern and riverine areas and erratic rainfall and dry spells in the north.",
-        "is_explicit": true
-      }
-    ],
-    "success_factors": [],
-    "ai_confidence": 86,
-    "analyzed_at": "2026-06-30T16:49:52.185978"
-  },
-  {
     "title": "Ministry of Disaster Management and Relief of the Government of Bangladesh Donates Rice to WFP for Food Assistance to Rohingya Population",
     "source": "ReliefWeb Agriculture",
     "date": "2026-07-10",
