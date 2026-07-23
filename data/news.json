@@ -108,45 +108,6 @@
     "analyzed_at": "2026-06-30T16:37:30.056162"
   },
   {
-    "title": "Lions Clubs International Foundation and World Food Programme scale up locally sourced school meals for children in Nepal",
-    "source": "ReliefWeb Agriculture",
-    "date": "2026-06-22",
-    "source_url": "https://reliefweb.int/report/nepal/lions-clubs-international-foundation-and-world-food-programme-scale-locally-sourced-school-meals-children-nepal",
-    "summary_ja": "ネパールで、Lions Clubs International Foundation (LCIF)とWorld Food Programme (WFP)は、地元政府と連携し、地元農家から調達した食材を使用した学校給食プログラムを拡大しています。この取り組みは、学童の栄養改善、出席率向上、そして小規模農家にとっての安定した市場創出を目指しています。",
-    "summary_en": "In Nepal, the Lions Clubs International Foundation (LCIF) and World Food Programme (WFP), in collaboration with local governments, are scaling up school meal programs that utilize locally sourced ingredients from smallholder farmers. This initiative aims to improve child nutrition and school attendance, while creating stable markets for local farmers.",
-    "tags": [
-      "school feeding",
-      "local sourcing",
-      "smallholder farmers",
-      "market access",
-      "nutrition",
-      "Nepal"
-    ],
-    "bottlenecks": [],
-    "success_factors": [
-      {
-        "category": "market_linkage",
-        "description": "地域農家から調達された食材を使った学校給食は、地元の農家のために安定した市場を創出します。",
-        "evidence_quote": "“Mid-day meals play a vital role in improving attendance and learning outcomes and the Home-grown school feeding approach helps ensure these meals are nutritious and locally sourced, creating stable markets for local farmers,”",
-        "is_explicit": true
-      },
-      {
-        "category": "institutional_integration",
-        "description": "このパートナーシップは、ネパール政府の昼食プログラムを直接支援し、社会保障と地域農業を結びつけることの重要性を強調しています。",
-        "evidence_quote": "As Nepal continues its transition towards a nationally led school meals system, partnership between the Government of Nepal, WFP and LCIF highlights the importance of linking social protection with local agriculture to build stronger, more resilient food systems.",
-        "is_explicit": true
-      },
-      {
-        "category": "phased_scaleup",
-        "description": "1年間のパイロットフェーズを経て、このパートナーシップは次の1年間に拡大されました。",
-        "evidence_quote": "The collaboration follows a one-year pilot phase completed in 2025, during which LCIF and World Food Program USA jointly invested USD 1 million to support school meals programmes in Nepal. Following this success, the partnership has been expanded for the next one year (2026-2027) with a budget of USD 500k jointly invested by LCIF and WFP USA.",
-        "is_explicit": true
-      }
-    ],
-    "ai_confidence": 93,
-    "analyzed_at": "2026-06-30T16:38:07.374328"
-  },
-  {
     "title": "Nepal Context Report - June 26, 2026",
     "source": "ReliefWeb Agriculture",
     "date": "2026-06-27",
@@ -186,40 +147,6 @@
     "success_factors": [],
     "ai_confidence": 91,
     "analyzed_at": "2026-06-30T16:49:42.314941"
-  },
-  {
-    "title": "World: Open letter to address hunger, food insecurity and malnutrition",
-    "source": "ReliefWeb Agriculture",
-    "date": "2026-06-22",
-    "source_url": "https://reliefweb.int/report/world/open-letter-address-hunger-food-insecurity-and-malnutrition",
-    "summary_ja": "本記事は、紛争、経済不安定、気候変動が世界の食料システムに与える影響について、宗教系NGO団体が連名で発表した公開書簡です。脆弱な地域における食料供給網の保護や、小規模農家および気候変動に適応した農業への支援を政府や国際機関に強く求めています。",
-    "summary_en": "This open letter, issued by global faith-based organizations, addresses the global hunger crisis driven by conflict, economic instability, and climate shocks. It calls on governments and international institutions to prioritize humanitarian access, strengthen resilient food systems, and provide direct support to smallholder farmers and climate-resilient agriculture.",
-    "tags": [
-      "hunger",
-      "food insecurity",
-      "smallholder farmers",
-      "climate-resilient agriculture",
-      "humanitarian access"
-    ],
-    "bottlenecks": [
-      {
-        "category": "market_access",
-        "description": "紛争や混乱による食料供給網、市場、インフラの破壊が、食料価格の上昇と入手困難を招いています。",
-        "severity": "high",
-        "evidence_quote": "The destruction of livelihoods, agricultural systems, markets and infrastructure is devastating communities directly affected by violence. At the same time, disruptions to energy supplies, fertiliser markets, shipping routes and humanitarian access are sending shockwaves through global food systems",
-        "is_explicit": true
-      }
-    ],
-    "success_factors": [
-      {
-        "category": "institutional_integration",
-        "description": "政府や国際機関が、小規模農家や気候適応型農業を支援する政策を優先的に実施することが成功の鍵として示唆されています。",
-        "evidence_quote": "We therefore call on governments, multilateral institutions, donors and faith communities to: ... Support smallholder farmers, local food producers and climate-resilient agriculture, especially in fragile and conflict-affected contexts.",
-        "is_explicit": true
-      }
-    ],
-    "ai_confidence": 83,
-    "analyzed_at": "2026-06-30T16:49:47.326948"
   },
   {
     "title": "Ministry of Disaster Management and Relief of the Government of Bangladesh Donates Rice to WFP for Food Assistance to Rohingya Population",
