@@ -51,63 +51,6 @@
     "analyzed_at": "2026-06-30T16:36:58.418209"
   },
   {
-    "title": "WFP Madagascar Country Brief June 2026",
-    "source": "ReliefWeb Agriculture",
-    "date": "2026-06-23",
-    "source_url": "https://reliefweb.int/report/madagascar/wfp-madagascar-country-brief-june-2026",
-    "summary_ja": "マダガスカルは構造的な脆弱性と干ばつ、サイクロンといった気候変動の影響に苦しむ低所得国です。農業依存度の高さにもかかわらず、市場へのアクセス制限と低生産性が貧困と気候・経済的ショックへの脆弱性を増幅させています。WFPは、人道的支援、気候適応、開発投資を統合し、小規模農家へのレジリエンス支援を含むアプローチを推進しています。",
-    "summary_en": "Madagascar is a low-income country grappling with structural vulnerabilities and recurrent climate shocks like droughts and cyclones. Despite high dependence on agriculture, limited market access and low productivity perpetuate poverty and heighten exposure to climatic and economic shocks. WFP promotes an integrated approach linking humanitarian action, climate adaptation, and development investments, including resilience support for smallholder households.",
-    "tags": [
-      "food security",
-      "nutrition",
-      "climate change adaptation",
-      "resilience",
-      "humanitarian aid",
-      "smallholder farmers"
-    ],
-    "bottlenecks": [
-      {
-        "category": "market_access",
-        "description": "農業従事者の市場へのアクセスが限られていることが、貧困から抜け出せない一因となっています。",
-        "severity": "high",
-        "evidence_quote": "With more than three quarters of households dependent on agriculture, limited market access and low productivity continue to trap families in poverty and heighten their exposure to climatic and economic shocks.",
-        "is_explicit": true
-      },
-      {
-        "category": "institutional",
-        "description": "マダガスカルは構造的な脆弱性に直面しており、それが気候変動の影響を悪化させています。",
-        "severity": "high",
-        "evidence_quote": "Madagascar remains a low-income country grappling with structural vulnerabilities and recurrent climate shocks, including droughts and cyclones.",
-        "is_explicit": true
-      },
-      {
-        "category": "climate_risk",
-        "description": "干ばつやサイクロンといった気候変動によるショックが頻繁に発生し、食料不安を悪化させています。",
-        "severity": "high",
-        "evidence_quote": "Madagascar remains a low-income country grappling with structural vulnerabilities and recurrent climate shocks, including droughts and cyclones.",
-        "is_explicit": true
-      }
-    ],
-    "success_factors": [
-      {
-        "category": "institutional_integration",
-        "description": "人道的支援、気候適応、開発投資を統合したアプローチが推進されています。",
-        "severity": null,
-        "evidence_quote": "WFP continues to promote an integrated approach that links humanitarian action, climate adaptation, and development investments.",
-        "is_explicit": true
-      },
-      {
-        "category": "market_linkage",
-        "description": "小規模農家へのレジリエンス支援が実施されています。",
-        "severity": null,
-        "evidence_quote": "This includes school meals for vulnerable children and resilience support for smallholder households, underpinned by strengthened emergency preparedness and aligned with the WFP Madagascar Country Strategic Plan.",
-        "is_explicit": true
-      }
-    ],
-    "ai_confidence": 87,
-    "analyzed_at": "2026-06-30T16:37:30.056162"
-  },
-  {
     "title": "Nepal Context Report - June 26, 2026",
     "source": "ReliefWeb Agriculture",
     "date": "2026-06-27",
