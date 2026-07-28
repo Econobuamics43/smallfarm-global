@@ -1707,5 +1707,53 @@
     "ai_confidence": 89,
     "last_updated": "2026-07-09",
     "coordinates": null
+  },
+  {
+    "id": "world-bank-hosted-fund",
+    "name": "World Bank-hosted fund",
+    "name_ja": "World Bank-hosted fund",
+    "country": [],
+    "country_ja": [],
+    "region": "Other",
+    "flag": "🌍",
+    "implementer": "World Bank",
+    "start_year": null,
+    "end_year": null,
+    "status": "active",
+    "approach": [
+      "financial-inclusion"
+    ],
+    "approach_ja": [
+      "financial-inclusion"
+    ],
+    "target_crops": [],
+    "climate_relevance": "none",
+    "description_en": "A World Bank-hosted fund has unveiled a $38 million boost to support smallholder farmers in addressing food insecurity. The funding initiative aims to enhance productivity and facilitate the transition toward more commercialized agricultural practices.",
+    "description_ja": "世界銀行がホストする基金が、食料不安に対処するため小規模農家に対し3,800万ドルの支援を開始しました。この資金提供は、小規模農家の生産性向上と商業化の促進を目的としています。",
+    "outcomes": {
+      "income_change_pct": null,
+      "participants": null,
+      "key_result": "食料不安の課題解決に向けた小規模農家への3,800万ドルの資金供給が発表されました。"
+    },
+    "bottlenecks": [
+      {
+        "category": "financial_access",
+        "description": "食料不安を抱える小規模農家にとって、農業の商業化に必要な資金へのアクセスが不足しています。",
+        "severity": "high",
+        "evidence_quote": "World Bank‑hosted fund unveils $38m boost for smallholder farmers in drive to tackle food insecurity",
+        "is_explicit": true
+      }
+    ],
+    "success_factors": [],
+    "tags": [
+      "smallholder",
+      "World Bank",
+      "food security",
+      "agricultural funding"
+    ],
+    "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVGN5b0tUcFNqWHpIT2RBeHJ3akxzdFV4WjdqcUZ2NkJ1VGFkdTJ2cS1UTzB5SU1zUHlqaHY0dy1JRzVQQ3ZmVHdWb0hkbEFibG9mV3NBWVFkV0pSd3BHOXdUWlgydEI3M0pxcUtCQkthaGl6MWVrd2huMkhuUXU3QXFfbUsxaXcwdVpPdlg4UDNfSkE0WmM3V0Zmc3Z4QnNOY2k3VjlVcUJOendmSFA3MGZkM3BGR2NBVHZGSDZFT1ZJMWFrQXlRWE9DVGt3empoTXFrQzJMeXBUNUhVRUNZ?oc=5",
+    "ai_confidence": 90,
+    "last_updated": "2026-07-28",
+    "coordinates": null
   }
 ]

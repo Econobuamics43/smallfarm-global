@@ -51,47 +51,6 @@
     "analyzed_at": "2026-06-30T16:36:58.418209"
   },
   {
-    "title": "Nepal Context Report - June 26, 2026",
-    "source": "ReliefWeb Agriculture",
-    "date": "2026-06-27",
-    "source_url": "https://reliefweb.int/report/nepal/nepal-context-report-june-26-2026",
-    "summary_ja": "ネパールは地形や気候の多様性により地域間で市場アクセスに格差があり、小規模農家は雨水依存の農業や出稼ぎに大きく依存している。地理的制約、インフラ不足、気候変動による災害が農家の商業的発展や食料安全保障を阻害する構造的な障壁となっている。",
-    "summary_en": "Nepal's agroecological diversity creates significant regional disparities in market access, with smallholders largely reliant on rainfed agriculture and remittances. Structural constraints, including geographic isolation, limited infrastructure, and recurrent climatic shocks, impede the commercialization of smallholder agriculture and threaten food security.",
-    "tags": [
-      "Nepal",
-      "Smallholder Agriculture",
-      "Food Security",
-      "Climate Resilience",
-      "Market Access"
-    ],
-    "bottlenecks": [
-      {
-        "category": "market_access",
-        "description": "地形的要因やインフラの未整備により、市場へのアクセスが限定的である。",
-        "severity": "high",
-        "evidence_quote": "The Hills and Mountains face structural production deficits due to limited arable land, lower productivity, and high transportation costs.",
-        "is_explicit": true
-      },
-      {
-        "category": "institutional",
-        "description": "小規模で断片化された農地が、食料不安のリスクを高めている。",
-        "severity": "high",
-        "evidence_quote": "High levels of poverty, small and fragmented landholdings, and uneven access to markets, infrastructure, and services contribute to persistent risk of acute food insecurity",
-        "is_explicit": true
-      },
-      {
-        "category": "climate_risk",
-        "description": "洪水や地滑りなどの自然災害が農業生産を阻害し、市場機能を一時的に麻痺させている。",
-        "severity": "high",
-        "evidence_quote": "Recurrent shocks — including floods, landslides, droughts, and economic disruptions — further constrain livelihoods, disrupt agricultural production, and limit market functioning.",
-        "is_explicit": true
-      }
-    ],
-    "success_factors": [],
-    "ai_confidence": 91,
-    "analyzed_at": "2026-06-30T16:49:42.314941"
-  },
-  {
     "title": "Ministry of Disaster Management and Relief of the Government of Bangladesh Donates Rice to WFP for Food Assistance to Rohingya Population",
     "source": "ReliefWeb Agriculture",
     "date": "2026-07-10",

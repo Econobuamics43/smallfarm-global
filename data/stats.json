@@ -1,22 +1,22 @@
 {
-  "total_projects": 24,
+  "total_projects": 25,
   "total_countries": 10,
   "total_beneficiaries": 125088000,
   "total_beneficiaries_display": "1.3億",
   "avg_income_change_pct": 41,
   "total_papers": 0,
-  "total_news": 7,
-  "last_updated": "2026-07-27",
+  "total_news": 6,
+  "last_updated": "2026-07-28",
   "regions": {
     "Sub-Saharan Africa": 9,
     "Multiple": 6,
+    "Other": 5,
     "South Asia": 4,
-    "Other": 4,
     "Latin America": 1
   },
   "implementers": {
     "JICA": 9,
-    "World Bank": 2,
+    "World Bank": 3,
     "USAID": 1,
     "IFAD": 1,
     "M-Farm Ltd.": 1,
@@ -38,7 +38,7 @@
     "market_access": 6,
     "climate_risk": 6,
     "knowledge_gap": 6,
-    "financial_access": 3,
+    "financial_access": 4,
     "post_harvest": 2,
     "gender": 1,
     "value-chain": 1
@@ -57,13 +57,19 @@
     "market-oriented": 12,
     "value-chain": 7,
     "climate-smart": 6,
+    "financial-inclusion": 4,
     "digital": 4,
-    "financial-inclusion": 3,
     "input-market": 2,
     "cooperative": 1,
     "nutrition": 1
   },
   "timeline": [
+    {
+      "date": "2026-07-28",
+      "title": "World Bank-hosted fund データ更新",
+      "description": "世界銀行がホストする基金が、食料不安に対処するため小規模農家に対し3,800万ドルの支援を開始しました。この資金提供は、小規模農家の生産性向上と商業化の促進を目...",
+      "type": "update"
+    },
     {
       "date": "2026-07-09",
       "title": "29th Call for Proposals データ更新",
@@ -86,12 +92,6 @@
       "date": "2026-07-05",
       "title": "Enhancing Market Access for Smallholder Farmers through Agribusiness Development データ更新",
       "description": "本記事は、小規模農家が市場アクセスを向上させ、商業的農業へと移行するための助成金提案書のサンプルを提示しています。アグリビジネス開発を通じて、バリューチェーンの...",
-      "type": "update"
-    },
-    {
-      "date": "2026-07-04",
-      "title": "AI4Good AgriTech Farmer Solutions データ更新",
-      "description": "ICTworksが、AI技術を活用した小規模農家向けのソリューション開発に対し、総額36万ドルの助成金を提供する公募を開始しました。この取り組みは、農業分野にお...",
       "type": "update"
     }
   ]
