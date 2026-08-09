@@ -34,46 +34,6 @@
     "analyzed_at": "2026-07-11T21:55:35.867757"
   },
   {
-    "title": "Italy: Asia and the Pacific’s agricultural innovations take centre stage at the FAO Global Conference on Smart Farming",
-    "source": "ReliefWeb Agriculture",
-    "date": "2026-07-09",
-    "source_url": "https://reliefweb.int/report/italy/asia-and-pacifics-agricultural-innovations-take-centre-stage-fao-global-conference-smart-farming",
-    "summary_ja": "ローマで開催されたFAOのスマート農業に関するグローバル会議において、アジア・太平洋地域の小規模農家を対象としたスマート農業技術の導入と、政策・投資を通じたスケーラビリティの確保が議論された。技術革新による生産性向上とインクルーシブな生態系構築の重要性が強調され、知識・技術・金融へのアクセス不足が普及の課題として指摘された。",
-    "summary_en": "At the FAO Global Conference on Smart Farming in Rome, stakeholders discussed scaling up smart farming systems to support small-scale farmers in Asia and the Pacific. The conference highlighted the necessity of integrating government, research, and markets to foster inclusive ecosystems while noting that gaps in knowledge, technology, and financial resources remain significant barriers.",
-    "tags": [
-      "Smart Farming",
-      "Small-scale farmers",
-      "FAO",
-      "Innovation",
-      "Asia and the Pacific"
-    ],
-    "bottlenecks": [
-      {
-        "category": "knowledge_gap",
-        "description": "知識、技術、金融リソースへのアクセス不足が、農家が規模を拡大し成果を出すことを制限している。",
-        "severity": "high",
-        "evidence_quote": "gaps in access to knowledge, technology and financial resources continued to limit many from achieving scale and impact.",
-        "is_explicit": true
-      }
-    ],
-    "success_factors": [
-      {
-        "category": "institutional_integration",
-        "description": "政府、研究機関、市場、金融サービスを統合する戦略的な政策が、スマート農業システムの構築に不可欠である。",
-        "evidence_quote": "Dohong emphasized that strategic policies are instrumental in creating integrated systems that bring together government, research, markets and financial services.",
-        "is_explicit": true
-      },
-      {
-        "category": "public_private",
-        "description": "研究成果を農家の現場へ橋渡しするため、FAOとシドニー大学が協力するような産学連携が重要である。",
-        "evidence_quote": "During the conference, FAO and the University of Sydney joined forces to help move innovation from research to farmers’ fields, marked by the signing of a five-year memorandum of understanding (MoU).",
-        "is_explicit": true
-      }
-    ],
-    "ai_confidence": 94,
-    "analyzed_at": "2026-07-11T21:55:40.607596"
-  },
-  {
     "title": "Angola Food Security Outlook June 2026 - January 2027: Likely El Niño-induced dryness to lead to outcomes aligned with Crisis (IPC Phase 3) in southern areas by November",
     "source": "ReliefWeb Agriculture",
     "date": "2026-07-13",
