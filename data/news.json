@@ -1,39 +1,5 @@
 [
   {
-    "title": "Ministry of Disaster Management and Relief of the Government of Bangladesh Donates Rice to WFP for Food Assistance to Rohingya Population",
-    "source": "ReliefWeb Agriculture",
-    "date": "2026-07-10",
-    "source_url": "https://reliefweb.int/report/bangladesh/ministry-disaster-management-and-relief-government-bangladesh-donates-rice-wfp-food-assistance-rohingya-population",
-    "summary_ja": "WFPはバングラデシュのホストコミュニティにおいて、33,000人以上の小規模農家に対し、気候変動に強い農業支援と市場アクセス支援を行っている。この取り組みは、農家を地域市場およびWFPの食料支援プログラムと結びつけることで支援を継続している。",
-    "summary_en": "WFP supports over 33,000 smallholder farmers in host communities through climate-resilient agriculture and market linkage initiatives. These efforts connect farmers to local markets and WFP's food assistance operations for the Rohingya response.",
-    "tags": [
-      "smallholder farmers",
-      "climate-resilient agriculture",
-      "market linkage",
-      "WFP",
-      "Bangladesh"
-    ],
-    "bottlenecks": [
-      {
-        "category": "climate_risk",
-        "description": "ホストコミュニティおよび難民キャンプにおいて、大雨や洪水などの気候リスクが深刻な影響を与えている。",
-        "severity": "high",
-        "evidence_quote": "Recent heavy monsoon rains and flooding have once again deepened hardship across parts of the camps, damaging shelters, disrupting movement and essential services, and tragically claiming several lives.",
-        "is_explicit": true
-      }
-    ],
-    "success_factors": [
-      {
-        "category": "market_linkage",
-        "description": "小規模農家を地域市場やWFPの食料支援オペレーションと結びつけることで、農業支援を強化している。",
-        "evidence_quote": "In the host communities, WFP and partners support more than 33,000 smallholder farmers through climate-resilient agriculture and market linkage support, connecting them to local markets and WFP's food assistance operations for the Rohingya response.",
-        "is_explicit": true
-      }
-    ],
-    "ai_confidence": 85,
-    "analyzed_at": "2026-07-11T21:55:35.867757"
-  },
-  {
     "title": "Angola Food Security Outlook June 2026 - January 2027: Likely El Niño-induced dryness to lead to outcomes aligned with Crisis (IPC Phase 3) in southern areas by November",
     "source": "ReliefWeb Agriculture",
     "date": "2026-07-13",
@@ -109,39 +75,5 @@
     ],
     "ai_confidence": 86,
     "analyzed_at": "2026-07-13T22:00:59.551557"
-  },
-  {
-    "title": "Ministry of Disaster Management and Relief of the Government of Bangladesh Donates Rice to WFP for Food Assistance to Rohingya Population [EN/BN]",
-    "source": "ReliefWeb Agriculture",
-    "date": "2026-07-10",
-    "source_url": "https://reliefweb.int/report/bangladesh/ministry-disaster-management-and-relief-government-bangladesh-donates-rice-wfp-food-assistance-rohingya-population-enbn",
-    "summary_ja": "バングラデシュ政府がロヒンギャ難民支援のためにWFPへ米を寄付したという報告の中で、WFPがホストコミュニティの小規模農家に対し、気候変動に強い農業と市場連携の支援を行っていることが言及されている。",
-    "summary_en": "While reporting on the Government of Bangladesh's rice donation to WFP for Rohingya refugees, the article highlights that WFP and its partners support over 33,000 smallholder farmers in host communities through climate-resilient agriculture and market linkage initiatives.",
-    "tags": [
-      "Bangladesh",
-      "Smallholder farmers",
-      "WFP",
-      "Climate-resilient agriculture",
-      "Market linkage"
-    ],
-    "bottlenecks": [
-      {
-        "category": "climate_risk",
-        "description": "難民キャンプがある地域は急峻な丘陵地にあり、モンスーンの豪雨や洪水による被害を受けやすい。",
-        "severity": "high",
-        "evidence_quote": "Living in densely populated camps built on steep hillsides, Rohingya families are highly vulnerable to natural hazards. Recent heavy monsoon rains and flooding have once again deepened hardship across parts of the camps",
-        "is_explicit": true
-      }
-    ],
-    "success_factors": [
-      {
-        "category": "market_linkage",
-        "description": "地元の市場やWFPの食料支援オペレーションと小規模農家を直接結びつけることで支援を行っている。",
-        "evidence_quote": "In the host communities, WFP and partners support more than 33,000 smallholder farmers through climate-resilient agriculture and market linkage support, connecting them to local markets and WFP's food assistance operations for the Rohingya response.",
-        "is_explicit": true
-      }
-    ],
-    "ai_confidence": 85,
-    "analyzed_at": "2026-07-13T22:01:04.183715"
   }
 ]
