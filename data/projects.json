@@ -1755,5 +1755,48 @@
     "ai_confidence": 90,
     "last_updated": "2026-07-28",
     "coordinates": null
+  },
+  {
+    "id": "gafsp-grants-programme",
+    "name": "GAFSP grants programme",
+    "name_ja": "GAFSP grants programme",
+    "country": [],
+    "country_ja": [],
+    "region": "Other",
+    "flag": "🌍",
+    "implementer": "GAFSP (Global Agriculture and Food Security Program)",
+    "start_year": null,
+    "end_year": null,
+    "status": "active",
+    "approach": [
+      "market-oriented",
+      "climate-smart"
+    ],
+    "approach_ja": [
+      "market-oriented",
+      "climate-smart"
+    ],
+    "target_crops": [],
+    "climate_relevance": "high",
+    "description_en": "GAFSP has launched a $163 million grants programme aimed at strengthening global food security and supporting smallholder farmers. The initiative focuses on enhancing climate resilience, agricultural productivity, and the strengthening of food systems.",
+    "description_ja": "GAFSPは、世界の食料安全保障を強化し小規模農家を支援するために1億6,300万ドルの助成金プログラムを開始しました。本プログラムは、気候変動への適応と農業の生産性向上、および食料システムのレジリエンス構築を目的としています。",
+    "outcomes": {
+      "income_change_pct": null,
+      "participants": null,
+      "key_result": "1億6,300万ドルの新たな助成金プログラムが開始され、食料安全保障の強化と小規模農家への支援が計画されています。"
+    },
+    "bottlenecks": [],
+    "success_factors": [],
+    "tags": [
+      "GAFSP",
+      "Smallholder Farmers",
+      "Food Security",
+      "Grants",
+      "Climate Resilience"
+    ],
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92QXQtN2xrNXlaNE0xcDBmMlZFdmhaQVVVUDRpX21oMVpBaGtuWWhQdGJHY0J6Q1dPVVhyMjg2enpRWF9ZV0Nha1lwU1E5U05lSlVmXzdMTFRzRkM5VGxyNkJQSUhqYmhIWkxVYw?oc=5",
+    "ai_confidence": 90,
+    "last_updated": "2026-08-25",
+    "coordinates": null
   }
 ]

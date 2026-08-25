@@ -1,16 +1,16 @@
 {
-  "total_projects": 25,
+  "total_projects": 26,
   "total_countries": 10,
   "total_beneficiaries": 125088000,
   "total_beneficiaries_display": "1.3億",
   "avg_income_change_pct": 41,
   "total_papers": 0,
   "total_news": 0,
-  "last_updated": "2026-08-24",
+  "last_updated": "2026-08-25",
   "regions": {
     "Sub-Saharan Africa": 9,
     "Multiple": 6,
-    "Other": 5,
+    "Other": 6,
     "South Asia": 4,
     "Latin America": 1
   },
@@ -29,7 +29,8 @@
     "null": 1,
     "Ministry of Agriculture, Food Security and New Growth Industries, National Meteorological Services, World Food Programme (WFP)": 1,
     "World Food Programme (WFP), Novo Nordisk Foundation, Grundfos Foundation": 1,
-    "Common Fund for Commodities (CFC)": 1
+    "Common Fund for Commodities (CFC)": 1,
+    "GAFSP (Global Agriculture and Food Security Program)": 1
   },
   "bottleneck_frequency": {
     "input_market": 6,
@@ -54,9 +55,9 @@
     "gender_mainstream": 2
   },
   "approaches": {
-    "market-oriented": 12,
+    "market-oriented": 13,
     "value-chain": 7,
-    "climate-smart": 6,
+    "climate-smart": 7,
     "financial-inclusion": 4,
     "digital": 4,
     "input-market": 2,
@@ -64,6 +65,12 @@
     "nutrition": 1
   },
   "timeline": [
+    {
+      "date": "2026-08-25",
+      "title": "GAFSP grants programme データ更新",
+      "description": "GAFSPは、世界の食料安全保障を強化し小規模農家を支援するために1億6,300万ドルの助成金プログラムを開始しました。本プログラムは、気候変動への適応と農業の...",
+      "type": "update"
+    },
     {
       "date": "2026-07-28",
       "title": "World Bank-hosted fund データ更新",
@@ -86,12 +93,6 @@
       "date": "2026-07-08",
       "title": "third phase scale up of their flagship school meals partnership データ更新",
       "description": "WFP、Novo Nordisk財団、Grundfos財団は、エチオピア、ケニア、ウガンダにおいて「Home-Grown School Feeding（地元産品...",
-      "type": "update"
-    },
-    {
-      "date": "2026-07-05",
-      "title": "Enhancing Market Access for Smallholder Farmers through Agribusiness Development データ更新",
-      "description": "本記事は、小規模農家が市場アクセスを向上させ、商業的農業へと移行するための助成金提案書のサンプルを提示しています。アグリビジネス開発を通じて、バリューチェーンの...",
       "type": "update"
     }
   ]
